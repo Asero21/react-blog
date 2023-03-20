@@ -1,0 +1,38 @@
+.search-bar{
+    border-radius: 8px;
+    margin: 16px;
+    text-align: center;
+}
+.No-task{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+.post-name{
+    font-size: 32px;
+}
+.post-name1{
+    margin: 32px 64px;
+    
+}
+.delete-button{
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+}
+.post-container{
+    position: relative;
+    border: 1px solid black;
+    border-radius: 16px;
+    margin-bottom: 16px;
+    padding: 16px;
+}
+.view-button{
+    position: absolute;
+    right: 64px;
+    bottom: 8px;
+    border-radius: 8px;
+    background-color: aqua;
+}
